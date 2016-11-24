@@ -1,8 +1,8 @@
-body {
-  background-color: orange;
+h1 {
+  text-align: center;
 }
 
-ul {
-  font-size: 100px;
-  color: pink;
+#go-button {
+  display: block;
+  margin: auto;
 }
